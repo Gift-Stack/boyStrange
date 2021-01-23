@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+}
+
+/* .skill_header {
+  font-size: 3rem;
+  text-align: center;
+}
+.li_wra {
+  font-size: 2em;
+}
+#col-1 {
+  position: fixed;
+  width: 30%;
+  left: 0;
+  height: 100%;
+  background-color: #fde4ec; */
+/* z-index: 1010101010 */
+/* } */
+
+/* #col-2 {
+  position: fixed;
+  width: 70%;
+  left: 30%;
+  height: 100%;
+  background-color: #fde4ec; */
+/* z-index: 1010101010 */
+/* }
+.edu_header {
+  font-size: 3rem;
+  text-align: center;
+}
+.liedu {
+  font-size: 2rem;
+}
+.aboutedu {
+  font-size: 2rem;
+}
+
+.bi {
+  background-image: url('3.jpg');
+  background-size: cover;
+} */
